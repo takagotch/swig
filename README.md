@@ -1,4 +1,4 @@
-### swing
+### swig
 ---
 .js
 https://github.com/paularmstrong/swig
